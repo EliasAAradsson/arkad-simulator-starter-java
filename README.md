@@ -9,9 +9,9 @@ This is a starter project for the arkad simulator. It walks a random path and co
 
 ## Instalation
 
-    1. Clone this repository
-    2. Navigate inside the project folder ´´´cd graphathon-starter-java´´´
-    3. Run ´´´mvn install´´´
+1. Clone this repository
+2. Navigate inside the project folder `cd graphathon-starter-java`
+3. Run `mvn install`
 
 ## Usage
 
