@@ -62,7 +62,7 @@ public class App {
     // End of data parsing
 
     final Integer TIMEBUDGET = 4500;
-    final String STARTING_COMPANY_ID = "company25";
+    final String STARTING_COMPANY_ID = "company10";
 
     String currentCompany = STARTING_COMPANY_ID;
     Integer timeLeft = TIMEBUDGET;
